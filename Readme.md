@@ -1,4 +1,4 @@
-#Bifunctor IO in Kotlin - Mario Russo
+# Bifunctor IO in Kotlin - Mario Russo
 
 This is a _work in progress_ implementation of bifunctor IO.  
 The bifunctor io ```BIO[E, A]``` is an immutable data type that models an effectful program that
